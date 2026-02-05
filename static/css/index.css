@@ -842,3 +842,11 @@ html, body {
   text-decoration-color: #A31B1E;
   text-underline-offset: 3px;
 }
+
+.venue-text {
+  display: inline-block;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  color: #374151;        /* neutral dark gray */
+}
